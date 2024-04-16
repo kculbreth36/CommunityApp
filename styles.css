@@ -31,7 +31,7 @@
 }
 
 #navbar__logo {
-    background-color: #f56600;
+    background-color: #B4F8C8;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -55,7 +55,7 @@
 }
 
 .navbar__links {
-    color: #f56600;
+    color: #B4F8C8;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -85,7 +85,7 @@
     outline: none;
     border-radius: 4px;
     background: #522D80;
-    color: #f56600;
+    color: #B4F8C8;
     transition: all 0.3s ease;
 }
 
@@ -136,7 +136,7 @@
         height: 3px;
         margin: 5px auto;
         transition: all 0.3s ease;
-        background: #f56600;
+        background: #B4F8C8;
     }
 
     .navbar__item {
@@ -209,7 +209,7 @@
 .hero__heading {
     font-size: 100px;
     margin-bottom: 24px;
-    color: #f56600;
+    color: #B4F8C8;
 }
 
 .hero__heading span {
@@ -250,7 +250,7 @@
 /* About Section */
 
 .main {
-    background-color: #f56600;
+    background-color: #B4F8C8;
     padding: 10rem 0;
 }
 
@@ -274,7 +274,7 @@
 
 .main__content h1 {
     font-size: 2rem;
-    background-color: #f56600;
+    background-color: #B4F8C8;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -302,7 +302,7 @@
 
 .main__btn {
     font-size: 1.8rem;
-    background: #f56600;
+    background: #B4F8C8;
     padding: 20px 60px;
     border-radius: 4px;
     border-color: #522d80;
@@ -450,7 +450,7 @@
 }
 
 .services h1 {
-    background-color: #f56600;
+    background-color: #B4F8C8;
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
@@ -565,7 +565,7 @@
 
 
 .roster {
-    background: #f56600;
+    background: #B4F8C8;
     display: flex;
     flex-direction: column;
     justify-content: center;
